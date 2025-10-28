@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f3f5f8;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 20px;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    margin-top: 25px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.15);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table th, table td {
+    border: 1px solid #ced6e0;
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background: #1e90ff;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+.btn-agregar {
+    display: inline-block;
+    background: #27ae60;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.btn-editar {
+    background: #f1c40f;
+    color: black;
+}
+
+.btn-eliminar {
+    background: #e74c3c;
+    color: white;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #b2bec3;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #1e90ff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover { background: #005bbb; }
