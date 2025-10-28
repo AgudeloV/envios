@@ -12,7 +12,8 @@ if(isset($_POST['guardar'])){
 
 <!DOCTYPE html>
 <html>
-<head><title>Crear Envio</title></head>
+<head><link rel="stylesheet" href="style.css">
+<title>Crear Envio</title></head>
 <body>
 <h2>Nuevo Envio</h2>
 

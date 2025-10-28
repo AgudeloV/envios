@@ -2,6 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="style.css">
+
     <title>Gestión de Envios</title>
 </head>
 <body>

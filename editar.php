@@ -15,7 +15,8 @@ if(isset($_POST['actualizar'])){
 
 <!DOCTYPE html>
 <html>
-<head><title>Editar Envio</title></head>
+<head><link rel="stylesheet" href="style.css">
+<title>Editar Envio</title></head>
 <body>
 
 <h2>Editar Envio</h2>
